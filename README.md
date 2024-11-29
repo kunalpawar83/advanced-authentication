@@ -48,3 +48,6 @@ This project is a simple implementation of OTP and JWT for authentication and au
 - GET `/api/users/me` - Get user profile
 
 ![Screenshot 2024-11-29 212047](https://github.com/user-attachments/assets/f24f3364-6dc2-4625-a48a-c7692e5664a1)
+![Screenshot 2024-11-29 212331](https://github.com/user-attachments/assets/fa8fb723-e92e-4e08-9a4d-098d260e6786)
+![Screenshot 2024-11-29 212320](https://github.com/user-attachments/assets/5514c41a-7cb4-45a3-a5e3-815e75387bc3)
+![Screenshot 2024-11-29 212258](https://github.com/user-attachments/assets/66befb55-8da6-499f-bc90-7e1599dddccc)
