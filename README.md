@@ -39,10 +39,10 @@ This project is a simple implementation of OTP and JWT for authentication and au
 
 ### API Endpoints
 
-- POST `/api/auth/register` - Register a new user
-- POST `/api/auth/verify` - Verify a user via OTP
+- POST `/api/auth/signup` - Register a new user
+- POST `/api/auth/verify-email` - Verify a user via OTP
 - POST `/api/auth/login` - Login a user
 - POST `/api/auth/logout` - Logout a user
 - POST `/api/auth/forgot-password` - Forgot password
-- POST `/api/auth/reset-password` - Reset password
+- POST `/api/auth//reset-password/:token` - Reset password
 - GET `/api/users/me` - Get user profile
